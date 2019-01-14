@@ -1,9 +1,0 @@
-commit -> take a napshot of your file
-
-* touch filename.filetype
--> creat a file in the project folder
-* git config --global user.name '...' / git config --global user.email '...'
-* git init -> creat a git repository (.git)
-* git add filename.type -> add a file into git repository
-* git status ->
-* git commit
