@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2020-10-26T21:51:02.919Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_5) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/86.0.4240.111 Safari/537.36" etag="s9gqJhKprKnHWMJYqJDX" version="13.8.3" type="github" pages="2">
+<mxfile host="app.diagrams.net" modified="2020-10-26T21:59:12.522Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_5) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/86.0.4240.111 Safari/537.36" etag="6Nde6K2XvjleIXCGYBJf" version="13.8.3" type="github" pages="2">
   <diagram name="Page-1" id="2a216829-ef6e-dabb-86c1-c78162f3ba2b">
     <mxGraphModel dx="1186" dy="614" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" background="#ffffff" math="0" shadow="0">
       <root>
@@ -262,10 +262,10 @@
           <mxGeometry x="20" width="1130" height="260" as="geometry" />
         </mxCell>
         <mxCell id="XQ94um0dFA0FO3Zs2JSh-44" value="Tiếp nhận yêu cầu thanh toán" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="XQ94um0dFA0FO3Zs2JSh-3">
-          <mxGeometry x="310" y="95" width="85.25" height="15" as="geometry" />
+          <mxGeometry x="309.88" y="112.5" width="85.25" height="15" as="geometry" />
         </mxCell>
         <mxCell id="XQ94um0dFA0FO3Zs2JSh-47" value="" style="shape=mxgraph.bpmn.shape;html=1;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;verticalAlign=top;align=center;perimeter=ellipsePerimeter;outlineConnect=0;outline=catching;symbol=message;" vertex="1" parent="XQ94um0dFA0FO3Zs2JSh-3">
-          <mxGeometry x="332.5" y="45" width="40" height="40" as="geometry" />
+          <mxGeometry x="332.5" y="65" width="40" height="40" as="geometry" />
         </mxCell>
         <mxCell id="XQ94um0dFA0FO3Zs2JSh-49" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="XQ94um0dFA0FO3Zs2JSh-3">
           <mxGeometry relative="1" as="geometry">
@@ -274,13 +274,13 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="XQ94um0dFA0FO3Zs2JSh-52" value="Đã đăng nhập vào hệ thống POS chưa?" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="XQ94um0dFA0FO3Zs2JSh-3">
-          <mxGeometry x="378.75" y="10" width="132.5" height="20" as="geometry" />
+          <mxGeometry x="380.01" y="30" width="132.5" height="20" as="geometry" />
         </mxCell>
         <mxCell id="XQ94um0dFA0FO3Zs2JSh-56" value="No" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" vertex="1" parent="XQ94um0dFA0FO3Zs2JSh-3">
-          <mxGeometry x="440" y="95" width="30" height="20" as="geometry" />
+          <mxGeometry x="441.26" y="110" width="30" height="20" as="geometry" />
         </mxCell>
         <mxCell id="XQ94um0dFA0FO3Zs2JSh-57" value="Khởi tạo một đơn hàng mới&amp;nbsp;" style="html=1;whiteSpace=wrap;rounded=1;dropTarget=0;" vertex="1" parent="XQ94um0dFA0FO3Zs2JSh-3">
-          <mxGeometry x="630" y="15" width="120" height="100" as="geometry" />
+          <mxGeometry x="630" y="10" width="120" height="105" as="geometry" />
         </mxCell>
         <mxCell id="XQ94um0dFA0FO3Zs2JSh-58" value="" style="html=1;shape=mxgraph.bpmn.user_task;outlineConnect=0;" vertex="1" parent="XQ94um0dFA0FO3Zs2JSh-57">
           <mxGeometry width="14" height="14" relative="1" as="geometry">
@@ -292,18 +292,10 @@
             <mxPoint x="-7" y="-14" as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="XQ94um0dFA0FO3Zs2JSh-60" value="Đăng nhập vào hệ thống POS" style="html=1;whiteSpace=wrap;rounded=1;dropTarget=0;" vertex="1" parent="XQ94um0dFA0FO3Zs2JSh-3">
-          <mxGeometry x="391.25" y="140" width="108.75" height="70" as="geometry" />
-        </mxCell>
-        <mxCell id="XQ94um0dFA0FO3Zs2JSh-61" value="" style="html=1;shape=mxgraph.bpmn.user_task;outlineConnect=0;" vertex="1" parent="XQ94um0dFA0FO3Zs2JSh-60">
-          <mxGeometry width="14" height="14" relative="1" as="geometry">
-            <mxPoint x="7" y="7" as="offset" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="XQ94um0dFA0FO3Zs2JSh-53" value="" style="endArrow=block;endFill=1;endSize=6;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="XQ94um0dFA0FO3Zs2JSh-3" source="XQ94um0dFA0FO3Zs2JSh-110" target="XQ94um0dFA0FO3Zs2JSh-57">
+        <mxCell id="XQ94um0dFA0FO3Zs2JSh-53" value="" style="endArrow=block;endFill=1;endSize=6;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0.008;entryY=0.695;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="XQ94um0dFA0FO3Zs2JSh-3" source="XQ94um0dFA0FO3Zs2JSh-110" target="XQ94um0dFA0FO3Zs2JSh-57">
           <mxGeometry width="100" relative="1" as="geometry">
             <mxPoint x="470" y="70" as="sourcePoint" />
-            <mxPoint x="550" y="70" as="targetPoint" />
+            <mxPoint x="630" y="65" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="XQ94um0dFA0FO3Zs2JSh-73" value="" style="shape=mxgraph.bpmn.shape;html=1;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;verticalAlign=top;align=center;perimeter=ellipsePerimeter;outlineConnect=0;outline=catching;symbol=link;" vertex="1" parent="XQ94um0dFA0FO3Zs2JSh-3">
@@ -312,7 +304,7 @@
         <mxCell id="XQ94um0dFA0FO3Zs2JSh-74" value="" style="endArrow=block;endFill=1;endSize=6;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="XQ94um0dFA0FO3Zs2JSh-3" source="XQ94um0dFA0FO3Zs2JSh-73">
           <mxGeometry width="100" relative="1" as="geometry">
             <mxPoint x="570" y="40" as="sourcePoint" />
-            <mxPoint x="630" y="29" as="targetPoint" />
+            <mxPoint x="630" y="30" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="XQ94um0dFA0FO3Zs2JSh-45" value="" style="endArrow=block;endFill=1;endSize=6;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="XQ94um0dFA0FO3Zs2JSh-3" source="XQ94um0dFA0FO3Zs2JSh-47" target="XQ94um0dFA0FO3Zs2JSh-110">
@@ -322,19 +314,27 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="XQ94um0dFA0FO3Zs2JSh-55" value="Yes" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" vertex="1" parent="XQ94um0dFA0FO3Zs2JSh-3">
-          <mxGeometry x="470" y="45" width="40" height="20" as="geometry" />
+          <mxGeometry x="471.26" y="65" width="40" height="20" as="geometry" />
         </mxCell>
         <mxCell id="XQ94um0dFA0FO3Zs2JSh-54" value="" style="endArrow=block;endFill=1;endSize=6;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="XQ94um0dFA0FO3Zs2JSh-3" source="XQ94um0dFA0FO3Zs2JSh-110" target="XQ94um0dFA0FO3Zs2JSh-60">
           <mxGeometry width="100" relative="1" as="geometry">
-            <mxPoint x="446" y="90" as="sourcePoint" />
+            <mxPoint x="446" y="130" as="sourcePoint" />
             <mxPoint x="445" y="130" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="XQ94um0dFA0FO3Zs2JSh-110" value="" style="shape=mxgraph.bpmn.shape;html=1;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;verticalAlign=top;align=center;perimeter=rhombusPerimeter;background=gateway;outlineConnect=0;outline=catching;symbol=multiple;" vertex="1" parent="XQ94um0dFA0FO3Zs2JSh-3">
-          <mxGeometry x="420" y="40" width="50" height="50" as="geometry" />
+          <mxGeometry x="421.26" y="60" width="50" height="50" as="geometry" />
         </mxCell>
         <mxCell id="XQ94um0dFA0FO3Zs2JSh-117" value="A" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" vertex="1" parent="XQ94um0dFA0FO3Zs2JSh-3">
           <mxGeometry x="540" y="50" width="20" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="XQ94um0dFA0FO3Zs2JSh-60" value="Đăng nhập vào hệ thống POS" style="html=1;whiteSpace=wrap;rounded=1;dropTarget=0;" vertex="1" parent="XQ94um0dFA0FO3Zs2JSh-3">
+          <mxGeometry x="391.88" y="160" width="108.75" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="XQ94um0dFA0FO3Zs2JSh-61" value="" style="html=1;shape=mxgraph.bpmn.user_task;outlineConnect=0;" vertex="1" parent="XQ94um0dFA0FO3Zs2JSh-60">
+          <mxGeometry width="14" height="14" relative="1" as="geometry">
+            <mxPoint x="7" y="7" as="offset" />
+          </mxGeometry>
         </mxCell>
         <mxCell id="XQ94um0dFA0FO3Zs2JSh-4" value="POS System" style="swimlane;html=1;startSize=20;horizontal=0;" vertex="1" parent="XQ94um0dFA0FO3Zs2JSh-1">
           <mxGeometry x="20" y="260" width="1130" height="290" as="geometry" />
