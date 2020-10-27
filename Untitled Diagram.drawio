@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2020-10-27T15:19:25.471Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_5) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/86.0.4240.111 Safari/537.36" etag="SJkWbMfbzkuPZT_nk1sn" version="13.8.5" type="github" pages="2">
+<mxfile host="app.diagrams.net" modified="2020-10-27T15:31:07.766Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_5) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/86.0.4240.111 Safari/537.36" etag="uHr-y1x-qNDBswP9QitB" version="13.8.5" type="github" pages="2">
   <diagram name="Page-1" id="2a216829-ef6e-dabb-86c1-c78162f3ba2b">
     <mxGraphModel dx="1186" dy="614" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" background="#ffffff" math="0" shadow="0">
       <root>
@@ -218,7 +218,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="4938J5MmcxvS2YLc5Ug3" name="Page-2">
-    <mxGraphModel dx="1581" dy="1919" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="1186" dy="1714" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="EHnlT2uJUEPuzApBhRH9-0" />
         <mxCell id="EHnlT2uJUEPuzApBhRH9-1" parent="EHnlT2uJUEPuzApBhRH9-0" />
@@ -423,6 +423,9 @@
               <mxPoint x="885" y="310" />
             </Array>
           </mxGeometry>
+        </mxCell>
+        <mxCell id="dYgOkMEkRBP4L_zY5Ezu-3" value="Máy quét mã vạch bị lỗi" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="XQ94um0dFA0FO3Zs2JSh-3">
+          <mxGeometry x="1197.5" y="190" width="75" height="20" as="geometry" />
         </mxCell>
         <mxCell id="XQ94um0dFA0FO3Zs2JSh-4" value="POS System" style="swimlane;html=1;startSize=20;horizontal=0;" parent="XQ94um0dFA0FO3Zs2JSh-1" vertex="1">
           <mxGeometry x="20" y="590" width="2270" height="280" as="geometry" />
