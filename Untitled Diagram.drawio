@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2020-10-27T09:04:47.948Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_5) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/86.0.4240.111 Safari/537.36" etag="oCd6eJOJaPEpMAMpF7ul" version="13.8.3" type="github" pages="2">
+<mxfile host="app.diagrams.net" modified="2020-10-27T09:09:13.998Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_5) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/86.0.4240.111 Safari/537.36" etag="6e9NB0OUb6JihlESsWyw" version="13.8.3" type="github" pages="2">
   <diagram name="Page-1" id="2a216829-ef6e-dabb-86c1-c78162f3ba2b">
     <mxGraphModel dx="1186" dy="614" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" background="#ffffff" math="0" shadow="0">
       <root>
@@ -373,6 +373,12 @@
         <mxCell id="tqIwXi21KZlLK7U0Jc3N-70" value="&lt;b&gt;&lt;i&gt;Sub-Process: Khởi tạo một đơn hàng mới&amp;nbsp;&lt;br&gt;&lt;/i&gt;&lt;/b&gt;&amp;nbsp;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="XQ94um0dFA0FO3Zs2JSh-3">
           <mxGeometry x="580" y="380" width="250" height="20" as="geometry" />
         </mxCell>
+        <mxCell id="tqIwXi21KZlLK7U0Jc3N-71" value="Máy quét mã vạch bị lỗi" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="XQ94um0dFA0FO3Zs2JSh-3">
+          <mxGeometry x="740" y="210" width="90" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="tqIwXi21KZlLK7U0Jc3N-60" value="Nhập mã sản phẩm bằng tay" style="shape=ext;rounded=1;html=1;whiteSpace=wrap;" vertex="1" parent="XQ94um0dFA0FO3Zs2JSh-3">
+          <mxGeometry x="830" y="220" width="110" height="70" as="geometry" />
+        </mxCell>
         <mxCell id="XQ94um0dFA0FO3Zs2JSh-4" value="POS System" style="swimlane;html=1;startSize=20;horizontal=0;" parent="XQ94um0dFA0FO3Zs2JSh-1" vertex="1">
           <mxGeometry x="20" y="590" width="1630" height="280" as="geometry" />
         </mxCell>
@@ -457,15 +463,12 @@
             <Array as="points" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="tqIwXi21KZlLK7U0Jc3N-60" value="Nhập mã sản phẩm bằng tay" style="shape=ext;rounded=1;html=1;whiteSpace=wrap;" vertex="1" parent="EHnlT2uJUEPuzApBhRH9-1">
-          <mxGeometry x="850" y="430" width="110" height="70" as="geometry" />
-        </mxCell>
         <mxCell id="tqIwXi21KZlLK7U0Jc3N-61" value="" style="endArrow=none;dashed=1;html=1;entryX=0;entryY=0;entryDx=40;entryDy=38;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryPerimeter=0;" edge="1" parent="EHnlT2uJUEPuzApBhRH9-1" source="tqIwXi21KZlLK7U0Jc3N-60" target="tqIwXi21KZlLK7U0Jc3N-62">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="905" y="500" as="sourcePoint" />
             <mxPoint x="735" y="348" as="targetPoint" />
             <Array as="points">
-              <mxPoint x="905" y="518" />
+              <mxPoint x="935" y="518" />
             </Array>
           </mxGeometry>
         </mxCell>
