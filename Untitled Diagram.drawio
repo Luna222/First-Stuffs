@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2020-10-27T15:32:06.512Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_5) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/86.0.4240.111 Safari/537.36" etag="Rvo80ZWLv3Tm1kYUy4X-" version="13.8.5" type="github" pages="2">
+<mxfile host="app.diagrams.net" modified="2020-10-27T15:43:37.136Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_5) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/86.0.4240.111 Safari/537.36" etag="chOuISXb2BnqBtLd_nXO" version="13.8.5" type="github" pages="2">
   <diagram name="Page-1" id="2a216829-ef6e-dabb-86c1-c78162f3ba2b">
     <mxGraphModel dx="1186" dy="614" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" background="#ffffff" math="0" shadow="0">
       <root>
@@ -394,15 +394,12 @@
         <mxCell id="G_H_JtzvXBRROuLsG_qt-38" value="Báo lỗi cho bên phòng ban liên quan" style="shape=ext;rounded=1;html=1;whiteSpace=wrap;" parent="XQ94um0dFA0FO3Zs2JSh-3" vertex="1">
           <mxGeometry x="1280" y="132" width="140" height="90" as="geometry" />
         </mxCell>
-        <mxCell id="T11NTd3DswMQK_yxjaWp-0" value="" style="shape=mxgraph.bpmn.shape;html=1;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;verticalAlign=top;align=center;perimeter=ellipsePerimeter;outlineConnect=0;outline=boundNonint;symbol=message;" parent="XQ94um0dFA0FO3Zs2JSh-3" vertex="1">
-          <mxGeometry x="1220" y="100" width="30" height="27.5" as="geometry" />
-        </mxCell>
         <mxCell id="G_H_JtzvXBRROuLsG_qt-40" value="" style="shape=message;whiteSpace=wrap;html=1;outlineConnect=0;fillColor=#000000;strokeColor=#ffffff;strokeWidth=2;" parent="XQ94um0dFA0FO3Zs2JSh-3" vertex="1">
           <mxGeometry x="1290" y="140" width="30" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="T11NTd3DswMQK_yxjaWp-1" value="" style="endArrow=block;endFill=1;endSize=6;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="XQ94um0dFA0FO3Zs2JSh-3" source="T11NTd3DswMQK_yxjaWp-0" target="G_H_JtzvXBRROuLsG_qt-38" edge="1">
+        <mxCell id="T11NTd3DswMQK_yxjaWp-1" value="" style="endArrow=block;endFill=1;endSize=6;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="XQ94um0dFA0FO3Zs2JSh-3" target="G_H_JtzvXBRROuLsG_qt-38" edge="1">
           <mxGeometry width="100" relative="1" as="geometry">
-            <mxPoint x="1160" y="140" as="sourcePoint" />
+            <mxPoint x="1235" y="127.5" as="sourcePoint" />
             <mxPoint x="1260" y="140" as="targetPoint" />
             <Array as="points">
               <mxPoint x="1235" y="177" />
@@ -424,8 +421,11 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="dYgOkMEkRBP4L_zY5Ezu-3" value="Máy quét mã vạch bị lỗi" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="XQ94um0dFA0FO3Zs2JSh-3">
+        <mxCell id="dYgOkMEkRBP4L_zY5Ezu-3" value="Máy quét mã vạch bị lỗi" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="XQ94um0dFA0FO3Zs2JSh-3" vertex="1">
           <mxGeometry x="1197.5" y="190" width="75" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="JRWdVg16z2sRsFhzCTSr-1" value="" style="shape=mxgraph.bpmn.shape;html=1;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;verticalAlign=top;align=center;perimeter=ellipsePerimeter;outlineConnect=0;outline=boundNonint;symbol=conditional;" vertex="1" parent="XQ94um0dFA0FO3Zs2JSh-3">
+          <mxGeometry x="1220" y="100" width="30" height="30" as="geometry" />
         </mxCell>
         <mxCell id="XQ94um0dFA0FO3Zs2JSh-4" value="POS System" style="swimlane;html=1;startSize=20;horizontal=0;" parent="XQ94um0dFA0FO3Zs2JSh-1" vertex="1">
           <mxGeometry x="20" y="590" width="2270" height="280" as="geometry" />
@@ -567,10 +567,10 @@
             <mxPoint x="1000" y="430" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="dYgOkMEkRBP4L_zY5Ezu-1" value="" style="shape=parallelMarker;html=1;outlineConnect=0;" vertex="1" parent="EHnlT2uJUEPuzApBhRH9-1">
+        <mxCell id="dYgOkMEkRBP4L_zY5Ezu-1" value="" style="shape=parallelMarker;html=1;outlineConnect=0;" parent="EHnlT2uJUEPuzApBhRH9-1" vertex="1">
           <mxGeometry x="928" y="486" width="14" height="14" as="geometry" />
         </mxCell>
-        <mxCell id="dYgOkMEkRBP4L_zY5Ezu-2" value="" style="shape=parallelMarker;html=1;outlineConnect=0;" vertex="1" parent="EHnlT2uJUEPuzApBhRH9-1">
+        <mxCell id="dYgOkMEkRBP4L_zY5Ezu-2" value="" style="shape=parallelMarker;html=1;outlineConnect=0;" parent="EHnlT2uJUEPuzApBhRH9-1" vertex="1">
           <mxGeometry x="758" y="396" width="14" height="14" as="geometry" />
         </mxCell>
       </root>
