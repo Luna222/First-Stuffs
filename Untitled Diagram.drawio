@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2020-10-29T09:25:05.200Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_5) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/86.0.4240.111 Safari/537.36" etag="CUXnDHl8NXwP72x4wNlX" version="13.8.6" type="github" pages="3">
+<mxfile host="app.diagrams.net" modified="2020-10-29T09:28:30.987Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_5) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/86.0.4240.111 Safari/537.36" etag="CIkeZdZUjD-Qjn0F-ZHK" version="13.8.6" type="github" pages="3">
   <diagram name="Page-1" id="2a216829-ef6e-dabb-86c1-c78162f3ba2b">
     <mxGraphModel dx="1186" dy="614" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" background="#ffffff" math="0" shadow="0">
       <root>
@@ -644,7 +644,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="d0YtbAoMINIAlSXDLQa4" name="Page-3">
-    <mxGraphModel dx="2036" dy="1714" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="2431" dy="1919" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="6QG6l0XzwJDkrrPSNPcI-0" />
         <mxCell id="6QG6l0XzwJDkrrPSNPcI-1" parent="6QG6l0XzwJDkrrPSNPcI-0" />
@@ -907,7 +907,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="BRii8UbJzVBfFj4A0vkS-75" value="Máy quét mã vạch bị lỗi" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="6QG6l0XzwJDkrrPSNPcI-1" vertex="1">
-          <mxGeometry x="1040.12" y="439" width="90" height="20" as="geometry" />
+          <mxGeometry x="1030.12" y="446" width="90" height="20" as="geometry" />
         </mxCell>
         <mxCell id="BRii8UbJzVBfFj4A0vkS-76" value="Nhập mã sản phẩm bằng tay" style="shape=ext;rounded=1;html=1;whiteSpace=wrap;" parent="6QG6l0XzwJDkrrPSNPcI-1" vertex="1">
           <mxGeometry x="1120.12" y="440" width="110" height="70" as="geometry" />
@@ -1298,6 +1298,18 @@
           <mxGeometry width="20" height="14" relative="1" as="geometry">
             <mxPoint x="-10" y="-7" as="offset" />
           </mxGeometry>
+        </mxCell>
+        <mxCell id="f4o5D0zxoOXvGgfGC2-B-599" value="" style="html=1;shape=mxgraph.flowchart.annotation_2;align=left;labelPosition=right;" vertex="1" parent="6QG6l0XzwJDkrrPSNPcI-1">
+          <mxGeometry x="1080" y="389" width="20" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="f4o5D0zxoOXvGgfGC2-B-600" value="" style="endArrow=none;dashed=1;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;entryPerimeter=0;exitX=0.855;exitY=0.855;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="6QG6l0XzwJDkrrPSNPcI-1" source="BRii8UbJzVBfFj4A0vkS-80" target="f4o5D0zxoOXvGgfGC2-B-599">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="1046" y="430" as="sourcePoint" />
+            <mxPoint x="1350" y="400" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="f4o5D0zxoOXvGgfGC2-B-603" value="Interrupting Event" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="6QG6l0XzwJDkrrPSNPcI-1">
+          <mxGeometry x="1090.12" y="400" width="109.88" height="20" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
