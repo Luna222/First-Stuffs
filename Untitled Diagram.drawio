@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2020-10-29T20:06:00.829Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_5) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/86.0.4240.111 Safari/537.36" etag="gaQRZtRvBsG2aKKAdX5l" version="13.8.6" type="github" pages="3">
+<mxfile host="app.diagrams.net" modified="2020-10-29T20:15:56.217Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_5) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/86.0.4240.111 Safari/537.36" etag="2Zb7jmB5a0l6uWMNsML_" version="13.8.6" type="github" pages="3">
   <diagram name="Page-1" id="2a216829-ef6e-dabb-86c1-c78162f3ba2b">
     <mxGraphModel dx="1186" dy="614" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" background="#ffffff" math="0" shadow="0">
       <root>
@@ -644,7 +644,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="d0YtbAoMINIAlSXDLQa4" name="Page-3">
-    <mxGraphModel dx="5594" dy="3556" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="2036" dy="1714" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="6QG6l0XzwJDkrrPSNPcI-0" />
         <mxCell id="6QG6l0XzwJDkrrPSNPcI-1" parent="6QG6l0XzwJDkrrPSNPcI-0" />
@@ -831,9 +831,6 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="BRii8UbJzVBfFj4A0vkS-56" value="" style="shape=note;whiteSpace=wrap;size=16;html=1;dropTarget=0;" parent="6QG6l0XzwJDkrrPSNPcI-1" vertex="1">
-          <mxGeometry x="985.12" y="490" width="40" height="60" as="geometry" />
-        </mxCell>
         <mxCell id="BRii8UbJzVBfFj4A0vkS-57" value="Barcode, SKU, số lượng, giá&amp;nbsp;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="6QG6l0XzwJDkrrPSNPcI-1" vertex="1">
           <mxGeometry x="960.12" y="560" width="90" height="20" as="geometry" />
         </mxCell>
@@ -960,9 +957,9 @@
         <mxCell id="BRii8UbJzVBfFj4A0vkS-88" value="" style="shape=mxgraph.bpmn.user_task;html=1;outlineConnect=0;" parent="6QG6l0XzwJDkrrPSNPcI-1" vertex="1">
           <mxGeometry x="960.12" y="336" width="14" height="14" as="geometry" />
         </mxCell>
-        <mxCell id="BRii8UbJzVBfFj4A0vkS-89" value="" style="endArrow=none;dashed=1;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;exitPerimeter=0;" parent="6QG6l0XzwJDkrrPSNPcI-1" source="BRii8UbJzVBfFj4A0vkS-56" target="BRii8UbJzVBfFj4A0vkS-79" edge="1">
+        <mxCell id="BRii8UbJzVBfFj4A0vkS-89" value="" style="endArrow=none;dashed=1;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;exitPerimeter=0;" parent="6QG6l0XzwJDkrrPSNPcI-1" target="BRii8UbJzVBfFj4A0vkS-79" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="978.12" y="490" as="sourcePoint" />
+            <mxPoint x="1005.1199999999999" y="490" as="sourcePoint" />
             <mxPoint x="1240.12" y="440" as="targetPoint" />
           </mxGeometry>
         </mxCell>
@@ -1140,7 +1137,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="f4o5D0zxoOXvGgfGC2-B-534" value="Yêu cầu thanh toán" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" parent="6QG6l0XzwJDkrrPSNPcI-1" vertex="1">
-          <mxGeometry x="1990" y="-20" width="120" height="20" as="geometry" />
+          <mxGeometry x="1990" y="-60" width="120" height="20" as="geometry" />
         </mxCell>
         <mxCell id="f4o5D0zxoOXvGgfGC2-B-544" value="Chọn hình thức thanh toán" style="html=1;whiteSpace=wrap;rounded=1;dropTarget=0;" parent="6QG6l0XzwJDkrrPSNPcI-1" vertex="1">
           <mxGeometry x="1915" y="-410" width="130" height="80" as="geometry" />
@@ -1604,6 +1601,14 @@
         </mxCell>
         <mxCell id="tkWbj9onLXiqzuM6NOQk-16" value="B" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" vertex="1" parent="6QG6l0XzwJDkrrPSNPcI-1">
           <mxGeometry x="1640" y="302.5" width="20" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="tkWbj9onLXiqzuM6NOQk-18" value="" style="shape=note;whiteSpace=wrap;size=16;html=1;dropTarget=0;" vertex="1" parent="6QG6l0XzwJDkrrPSNPcI-1">
+          <mxGeometry x="985.12" y="490" width="40" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="tkWbj9onLXiqzuM6NOQk-19" value="" style="html=1;shape=singleArrow;arrowWidth=0.4;arrowSize=0.4;outlineConnect=0;" vertex="1" parent="tkWbj9onLXiqzuM6NOQk-18">
+          <mxGeometry width="14" height="14" relative="1" as="geometry">
+            <mxPoint x="2" y="2" as="offset" />
+          </mxGeometry>
         </mxCell>
       </root>
     </mxGraphModel>
