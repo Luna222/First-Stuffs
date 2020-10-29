@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2020-10-29T06:20:51.377Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_5) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/86.0.4240.111 Safari/537.36" etag="aflprg_V55tI8ovyA9wu" version="13.8.6" type="github" pages="3">
+<mxfile host="app.diagrams.net" modified="2020-10-29T06:26:54.243Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_5) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/86.0.4240.111 Safari/537.36" etag="4yDiBi7DOQNgKJKUFNyp" version="13.8.6" type="github" pages="3">
   <diagram name="Page-1" id="2a216829-ef6e-dabb-86c1-c78162f3ba2b">
     <mxGraphModel dx="1186" dy="614" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" background="#ffffff" math="0" shadow="0">
       <root>
@@ -910,7 +910,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="BRii8UbJzVBfFj4A0vkS-75" value="Máy quét mã vạch bị lỗi" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="6QG6l0XzwJDkrrPSNPcI-1" vertex="1">
-          <mxGeometry x="1040" y="440" width="90" height="20" as="geometry" />
+          <mxGeometry x="1040.12" y="439" width="90" height="20" as="geometry" />
         </mxCell>
         <mxCell id="BRii8UbJzVBfFj4A0vkS-76" value="Nhập mã sản phẩm bằng tay" style="shape=ext;rounded=1;html=1;whiteSpace=wrap;" parent="6QG6l0XzwJDkrrPSNPcI-1" vertex="1">
           <mxGeometry x="1120.12" y="440" width="110" height="70" as="geometry" />
@@ -1222,12 +1222,6 @@
             <mxPoint x="2240" y="-130" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="f4o5D0zxoOXvGgfGC2-B-554" value="" style="shape=mxgraph.bpmn.loop;html=1;outlineConnect=0;" vertex="1" parent="6QG6l0XzwJDkrrPSNPcI-1">
-          <mxGeometry x="998.12" y="410" width="14" height="14" as="geometry" />
-        </mxCell>
-        <mxCell id="f4o5D0zxoOXvGgfGC2-B-555" value="" style="shape=mxgraph.bpmn.loop;html=1;outlineConnect=0;" vertex="1" parent="6QG6l0XzwJDkrrPSNPcI-1">
-          <mxGeometry x="1168.12" y="495" width="14" height="14" as="geometry" />
-        </mxCell>
         <mxCell id="f4o5D0zxoOXvGgfGC2-B-556" value="" style="html=1;shape=mxgraph.flowchart.annotation_2;align=left;labelPosition=right;" vertex="1" parent="6QG6l0XzwJDkrrPSNPcI-1">
           <mxGeometry x="1250" y="485" width="40.12" height="70" as="geometry" />
         </mxCell>
@@ -1251,6 +1245,12 @@
             <mxPoint x="1290" y="460" as="sourcePoint" />
             <mxPoint x="1340" y="410" as="targetPoint" />
           </mxGeometry>
+        </mxCell>
+        <mxCell id="f4o5D0zxoOXvGgfGC2-B-569" value="" style="shape=parallelMarker;html=1;outlineConnect=0;" vertex="1" parent="6QG6l0XzwJDkrrPSNPcI-1">
+          <mxGeometry x="998.12" y="410" width="14" height="14" as="geometry" />
+        </mxCell>
+        <mxCell id="f4o5D0zxoOXvGgfGC2-B-570" value="" style="shape=parallelMarker;html=1;outlineConnect=0;" vertex="1" parent="6QG6l0XzwJDkrrPSNPcI-1">
+          <mxGeometry x="1168.12" y="490" width="14" height="14" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
