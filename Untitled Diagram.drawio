@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2020-11-02T19:05:22.000Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_5) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/86.0.4240.111 Safari/537.36" etag="efgMAh-wp1_5tnoU9SJJ" version="13.8.8" type="github" pages="4">
+<mxfile host="app.diagrams.net" modified="2020-11-02T19:07:45.205Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_5) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/86.0.4240.111 Safari/537.36" etag="iSgsZts1jUYLtKWqVLtZ" version="13.8.8" type="github" pages="4">
   <diagram name="Page-1" id="2a216829-ef6e-dabb-86c1-c78162f3ba2b">
     <mxGraphModel dx="1186" dy="614" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" background="#ffffff" math="0" shadow="0">
       <root>
@@ -1182,7 +1182,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="d0YtbAoMINIAlSXDLQa4" name="Page-3">
-    <mxGraphModel dx="2036" dy="1714" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="3222" dy="2328" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="6QG6l0XzwJDkrrPSNPcI-0" />
         <mxCell id="6QG6l0XzwJDkrrPSNPcI-1" parent="6QG6l0XzwJDkrrPSNPcI-0" />
@@ -2181,7 +2181,7 @@
         <mxCell id="BwRENVdK9ryWL6IX2Air-230" value="" style="shape=mxgraph.bpmn.user_task;html=1;outlineConnect=0;" parent="6QG6l0XzwJDkrrPSNPcI-1" vertex="1">
           <mxGeometry x="4683" y="337.75" width="14" height="14" as="geometry" />
         </mxCell>
-        <mxCell id="BwRENVdK9ryWL6IX2Air-231" value="Ghi nhận thông tin đơn hàng" style="html=1;whiteSpace=wrap;rounded=1;dropTarget=0;" parent="6QG6l0XzwJDkrrPSNPcI-1" vertex="1">
+        <mxCell id="BwRENVdK9ryWL6IX2Air-231" value="Ghi nhận thông tin&amp;nbsp;" style="html=1;whiteSpace=wrap;rounded=1;dropTarget=0;" parent="6QG6l0XzwJDkrrPSNPcI-1" vertex="1">
           <mxGeometry x="4675.5" y="1212.75" width="120" height="77" as="geometry" />
         </mxCell>
         <mxCell id="BwRENVdK9ryWL6IX2Air-232" value="" style="shape=mxgraph.bpmn.service_task;html=1;outlineConnect=0;" parent="6QG6l0XzwJDkrrPSNPcI-1" vertex="1">
