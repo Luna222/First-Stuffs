@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2020-11-04T10:16:23.120Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_5) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/86.0.4240.183 Safari/537.36" etag="tqSteniZXAWvcHZVYne3" version="13.8.8" type="github" pages="4">
+<mxfile host="app.diagrams.net" modified="2020-11-04T10:17:54.386Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_5) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/86.0.4240.183 Safari/537.36" etag="yeTNQuR7-8czfZS8zZ8E" version="13.8.8" type="github" pages="4">
   <diagram name="Page-1" id="2a216829-ef6e-dabb-86c1-c78162f3ba2b">
     <mxGraphModel dx="2372" dy="1228" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" background="#ffffff" math="0" shadow="0">
       <root>
@@ -2863,7 +2863,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="WCwUH8E9p4RQ-hGNV6rV-3" value="No" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" vertex="1" parent="6QG6l0XzwJDkrrPSNPcI-1">
-          <mxGeometry x="2270" y="218.75" width="30" height="20" as="geometry" />
+          <mxGeometry x="2270" y="210" width="30" height="20" as="geometry" />
         </mxCell>
         <mxCell id="WCwUH8E9p4RQ-hGNV6rV-4" value="Từ chối thẻ Voucher" style="shape=ext;rounded=1;html=1;whiteSpace=wrap;" vertex="1" parent="6QG6l0XzwJDkrrPSNPcI-1">
           <mxGeometry x="2245" y="264.01" width="110" height="68.5" as="geometry" />
@@ -2884,7 +2884,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="WCwUH8E9p4RQ-hGNV6rV-10" value="Yes" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" vertex="1" parent="6QG6l0XzwJDkrrPSNPcI-1">
-          <mxGeometry x="2265" y="125.75" width="40" height="20" as="geometry" />
+          <mxGeometry x="2265" y="135.75" width="40" height="20" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
