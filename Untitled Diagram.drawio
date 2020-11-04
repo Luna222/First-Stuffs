@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2020-11-04T18:41:39.227Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_5) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/86.0.4240.183 Safari/537.36" etag="qQGayPi5BgOSrjiKrDjZ" version="13.8.8" type="github" pages="4">
+<mxfile host="app.diagrams.net" modified="2020-11-04T18:42:33.628Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_5) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/86.0.4240.183 Safari/537.36" etag="w3ntTU626z-FjktbPdki" version="13.8.8" type="github" pages="4">
   <diagram name="Page-1" id="2a216829-ef6e-dabb-86c1-c78162f3ba2b">
     <mxGraphModel dx="1186" dy="614" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" background="#ffffff" math="0" shadow="0">
       <root>
@@ -2648,7 +2648,7 @@
             <mxPoint x="3640" y="-340" as="sourcePoint" />
             <mxPoint x="5225" y="-266" as="targetPoint" />
             <Array as="points">
-              <mxPoint x="3250" y="-440" />
+              <mxPoint x="3249" y="-440" />
               <mxPoint x="5225" y="-440" />
             </Array>
           </mxGeometry>
@@ -2695,7 +2695,7 @@
           <mxGeometry x="2959.76" y="208.01999999999998" width="14" height="14" as="geometry" />
         </mxCell>
         <mxCell id="zIpoYiiEqDzxjUjKjEIS-20" value="Xác nhận" style="shape=ext;rounded=1;html=1;whiteSpace=wrap;" parent="pa8ux60RwjBmHuNJ9BpK-0" vertex="1">
-          <mxGeometry x="3228.82" y="200.01" width="120" height="70" as="geometry" />
+          <mxGeometry x="3228.82" y="199" width="120" height="70" as="geometry" />
         </mxCell>
         <mxCell id="zIpoYiiEqDzxjUjKjEIS-28" value="Chọn hình thức thanh toán" style="html=1;whiteSpace=wrap;rounded=1;dropTarget=0;" parent="pa8ux60RwjBmHuNJ9BpK-0" vertex="1">
           <mxGeometry x="3398.32" y="200.01" width="130" height="80" as="geometry" />
