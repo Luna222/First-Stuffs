@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2020-11-04T10:15:23.599Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_5) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/86.0.4240.183 Safari/537.36" etag="FtgDa3D2lqskJ3R64-Aj" version="13.8.8" type="github" pages="4">
+<mxfile host="app.diagrams.net" modified="2020-11-04T10:16:23.120Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_5) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/86.0.4240.183 Safari/537.36" etag="tqSteniZXAWvcHZVYne3" version="13.8.8" type="github" pages="4">
   <diagram name="Page-1" id="2a216829-ef6e-dabb-86c1-c78162f3ba2b">
     <mxGraphModel dx="2372" dy="1228" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" background="#ffffff" math="0" shadow="0">
       <root>
@@ -2347,7 +2347,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="zIpoYiiEqDzxjUjKjEIS-8" value="Thẻ thành viên" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="6QG6l0XzwJDkrrPSNPcI-1" vertex="1">
-          <mxGeometry x="3020" y="120" width="90" height="20" as="geometry" />
+          <mxGeometry x="3020" y="163.75" width="90" height="20" as="geometry" />
         </mxCell>
         <mxCell id="zIpoYiiEqDzxjUjKjEIS-9" value="Đưa thẻ thành viên" style="shape=ext;rounded=1;html=1;whiteSpace=wrap;" parent="6QG6l0XzwJDkrrPSNPcI-1" vertex="1">
           <mxGeometry x="2911.25" y="-283.26" width="128.75" height="80" as="geometry" />
@@ -2360,11 +2360,11 @@
         </mxCell>
         <mxCell id="zIpoYiiEqDzxjUjKjEIS-11" value="" style="shape=message;html=1;outlineConnect=0;" parent="zIpoYiiEqDzxjUjKjEIS-10" vertex="1">
           <mxGeometry width="20" height="14" relative="1" as="geometry">
-            <mxPoint x="-10" y="38.24" as="offset" />
+            <mxPoint x="-9.37" y="81" as="offset" />
           </mxGeometry>
         </mxCell>
         <mxCell id="zIpoYiiEqDzxjUjKjEIS-12" value="Yêu cầu thẻ thành viên" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="6QG6l0XzwJDkrrPSNPcI-1" vertex="1">
-          <mxGeometry x="2892" y="120" width="70" height="20" as="geometry" />
+          <mxGeometry x="2892" y="168.51" width="70" height="20" as="geometry" />
         </mxCell>
         <mxCell id="zIpoYiiEqDzxjUjKjEIS-13" value="" style="shape=mxgraph.bpmn.manual_task;html=1;outlineConnect=0;" parent="6QG6l0XzwJDkrrPSNPcI-1" vertex="1">
           <mxGeometry x="2920" y="-275.25" width="14" height="14" as="geometry" />
@@ -2377,7 +2377,7 @@
         </mxCell>
         <mxCell id="zIpoYiiEqDzxjUjKjEIS-15" value="" style="shape=message;html=1;outlineConnect=0;" parent="zIpoYiiEqDzxjUjKjEIS-14" vertex="1">
           <mxGeometry width="20" height="14" relative="1" as="geometry">
-            <mxPoint x="-8.91" y="38.00000000000001" as="offset" />
+            <mxPoint x="-10" y="80.76" as="offset" />
           </mxGeometry>
         </mxCell>
         <mxCell id="zIpoYiiEqDzxjUjKjEIS-16" value="Xác nhận đơn hàng" style="shape=ext;rounded=1;html=1;whiteSpace=wrap;" parent="6QG6l0XzwJDkrrPSNPcI-1" vertex="1">
