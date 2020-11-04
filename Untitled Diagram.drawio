@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2020-11-04T10:57:09.556Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_5) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/86.0.4240.183 Safari/537.36" etag="lJ_hq-ez24KVKNQ50m86" version="13.8.8" type="github" pages="4">
+<mxfile host="app.diagrams.net" modified="2020-11-04T11:42:36.214Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_5) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/86.0.4240.183 Safari/537.36" etag="uPL_goUXQV9lDmHNXQay" version="13.8.8" type="github" pages="4">
   <diagram name="Page-1" id="2a216829-ef6e-dabb-86c1-c78162f3ba2b">
     <mxGraphModel dx="2372" dy="1228" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" background="#ffffff" math="0" shadow="0">
       <root>
@@ -2948,6 +2948,32 @@
         </mxCell>
         <mxCell id="A3U33MW6EYu2nQBu1Zpa-18" value="Đã mua được các sản phẩm cần thiết" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="6QG6l0XzwJDkrrPSNPcI-1">
           <mxGeometry x="5475" y="-213.26" width="110" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="Q0kNwD4qwR4v4fePwHd9-1" value="Đưa thẻ Voucher" style="shape=ext;rounded=1;html=1;whiteSpace=wrap;" vertex="1" parent="6QG6l0XzwJDkrrPSNPcI-1">
+          <mxGeometry x="2080.63" y="-287.5" width="128.75" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="Q0kNwD4qwR4v4fePwHd9-2" value="" style="shape=mxgraph.bpmn.manual_task;html=1;outlineConnect=0;" vertex="1" parent="6QG6l0XzwJDkrrPSNPcI-1">
+          <mxGeometry x="2088" y="-281.49" width="14" height="14" as="geometry" />
+        </mxCell>
+        <mxCell id="Q0kNwD4qwR4v4fePwHd9-3" value="" style="startArrow=oval;startFill=0;startSize=7;endArrow=block;endFill=0;endSize=10;dashed=1;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="6QG6l0XzwJDkrrPSNPcI-1" source="Q0kNwD4qwR4v4fePwHd9-1" target="3I43rDdc65-VoeBNqE3u-0">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="2780" y="-90" as="sourcePoint" />
+            <mxPoint x="2177" y="130" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Q0kNwD4qwR4v4fePwHd9-4" value="" style="shape=message;html=1;outlineConnect=0;" vertex="1" parent="Q0kNwD4qwR4v4fePwHd9-3">
+          <mxGeometry width="20" height="14" relative="1" as="geometry">
+            <mxPoint x="-10" y="-7" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Q0kNwD4qwR4v4fePwHd9-7" value="" style="endArrow=none;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;" edge="1" parent="6QG6l0XzwJDkrrPSNPcI-1" source="Q0kNwD4qwR4v4fePwHd9-1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="2800" y="-60" as="sourcePoint" />
+            <mxPoint x="2145" y="-440" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Q0kNwD4qwR4v4fePwHd9-9" value="Thẻ Voucher" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" vertex="1" parent="6QG6l0XzwJDkrrPSNPcI-1">
+          <mxGeometry x="2055" y="-50" width="80" height="20" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
