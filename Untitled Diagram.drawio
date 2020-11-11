@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2020-11-11T10:50:08.908Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_5) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/86.0.4240.193 Safari/537.36" etag="TLEwGrcTRd7YZ0cH-yr8" version="13.9.2" type="github" pages="4">
+<mxfile host="app.diagrams.net" modified="2020-11-11T10:53:04.513Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_5) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/86.0.4240.193 Safari/537.36" etag="AE8gCudkw-WhuuRwJp7Q" version="13.9.2" type="github" pages="4">
   <diagram name="Page-1" id="2a216829-ef6e-dabb-86c1-c78162f3ba2b">
     <mxGraphModel dx="1186" dy="614" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" background="#ffffff" math="0" shadow="0">
       <root>
@@ -644,7 +644,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="d0YtbAoMINIAlSXDLQa4" name="POS Sale Process">
-    <mxGraphModel dx="2036" dy="1714" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="3222" dy="2328" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="6QG6l0XzwJDkrrPSNPcI-0" />
         <mxCell id="6QG6l0XzwJDkrrPSNPcI-1" parent="6QG6l0XzwJDkrrPSNPcI-0" />
@@ -2675,7 +2675,7 @@
           <mxGeometry x="-40" y="95.01" width="5340" height="1110" as="geometry" />
         </mxCell>
         <mxCell id="XEvMsW0XWqBc-6qg64GJ-218" value="&lt;div&gt;Cashier (Thu Ngân)&lt;/div&gt;" style="swimlane;html=1;horizontal=0;swimlaneLine=0;align=center;" vertex="1" parent="XEvMsW0XWqBc-6qg64GJ-217">
-          <mxGeometry x="20" width="5320" height="1110" as="geometry" />
+          <mxGeometry x="20" width="5320" height="790" as="geometry" />
         </mxCell>
         <mxCell id="XEvMsW0XWqBc-6qg64GJ-219" value="Đăng nhập vào hệ thống POS" style="html=1;whiteSpace=wrap;rounded=1;dropTarget=0;" vertex="1" parent="XEvMsW0XWqBc-6qg64GJ-218">
           <mxGeometry x="705.82" y="381.25" width="108.75" height="70" as="geometry" />
@@ -3057,9 +3057,6 @@
         <mxCell id="g7jluWJxPj2cZb2KWG8t-17" value="" style="shape=mxgraph.bpmn.manual_task;html=1;outlineConnect=0;" vertex="1" parent="XEvMsW0XWqBc-6qg64GJ-218">
           <mxGeometry x="4733.32" y="233.01999999999998" width="14" height="14" as="geometry" />
         </mxCell>
-        <mxCell id="g7jluWJxPj2cZb2KWG8t-21" value="Sản phẩm và hoá đơn" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" vertex="1" parent="XEvMsW0XWqBc-6qg64GJ-218">
-          <mxGeometry x="4800" y="-66.24999999999994" width="130" height="20" as="geometry" />
-        </mxCell>
         <mxCell id="g7jluWJxPj2cZb2KWG8t-29" value="" style="shape=mxgraph.bpmn.shape;html=1;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;verticalAlign=top;align=center;perimeter=ellipsePerimeter;outlineConnect=0;outline=end;symbol=terminate;" vertex="1" parent="XEvMsW0XWqBc-6qg64GJ-218">
           <mxGeometry x="4903.32" y="251.02" width="40" height="40" as="geometry" />
         </mxCell>
@@ -3279,8 +3276,11 @@
         </mxCell>
         <mxCell id="g7jluWJxPj2cZb2KWG8t-20" value="" style="shape=message;html=1;outlineConnect=0;" vertex="1" parent="g7jluWJxPj2cZb2KWG8t-19">
           <mxGeometry width="20" height="14" relative="1" as="geometry">
-            <mxPoint x="-8.57" y="24.830000000000002" as="offset" />
+            <mxPoint x="-8.57" y="2.6000000000000014" as="offset" />
           </mxGeometry>
+        </mxCell>
+        <mxCell id="g7jluWJxPj2cZb2KWG8t-21" value="Sản phẩm và hoá đơn" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" vertex="1" parent="1biz1qd9IpuSNfBp-EpO-1">
+          <mxGeometry x="4780" y="28.76000000000006" width="130" height="20" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
