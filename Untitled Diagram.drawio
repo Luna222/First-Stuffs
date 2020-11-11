@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2020-11-11T09:02:43.470Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_5) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/86.0.4240.193 Safari/537.36" etag="oW3MRTe9BfHUE3vCHJ50" version="13.9.2" type="github" pages="4">
+<mxfile host="app.diagrams.net" modified="2020-11-11T09:04:00.176Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_5) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/86.0.4240.193 Safari/537.36" etag="suKq-NtZQ7c8MF11B2K2" version="13.9.2" type="github" pages="4">
   <diagram name="Page-1" id="2a216829-ef6e-dabb-86c1-c78162f3ba2b">
     <mxGraphModel dx="1186" dy="614" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" background="#ffffff" math="0" shadow="0">
       <root>
@@ -644,7 +644,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="d0YtbAoMINIAlSXDLQa4" name="POS Sale Process">
-    <mxGraphModel dx="2036" dy="1714" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="5594" dy="3556" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="6QG6l0XzwJDkrrPSNPcI-0" />
         <mxCell id="6QG6l0XzwJDkrrPSNPcI-1" parent="6QG6l0XzwJDkrrPSNPcI-0" />
@@ -2879,7 +2879,7 @@
           <mxGeometry x="4543.32" y="246.49" width="50" height="50" as="geometry" />
         </mxCell>
         <mxCell id="XEvMsW0XWqBc-6qg64GJ-237" value="Thông tin nhân viên (Employee ID, tên, etc)" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="XEvMsW0XWqBc-6qg64GJ-218">
-          <mxGeometry x="860" y="951.22" width="112.5" height="20" as="geometry" />
+          <mxGeometry x="860" y="941.22" width="112.5" height="20" as="geometry" />
         </mxCell>
         <mxCell id="XEvMsW0XWqBc-6qg64GJ-236" value="POS System" style="swimlane;html=1;horizontal=0;swimlaneLine=0;" vertex="1" parent="XEvMsW0XWqBc-6qg64GJ-217">
           <mxGeometry x="20" y="790" width="5640" height="320" as="geometry" />
