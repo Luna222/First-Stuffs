@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2020-11-11T09:04:00.176Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_5) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/86.0.4240.193 Safari/537.36" etag="suKq-NtZQ7c8MF11B2K2" version="13.9.2" type="github" pages="4">
+<mxfile host="app.diagrams.net" modified="2020-11-11T09:05:36.194Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_5) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/86.0.4240.193 Safari/537.36" etag="DO6t9xXXVPlBCzLRTZhb" version="13.9.2" type="github" pages="4">
   <diagram name="Page-1" id="2a216829-ef6e-dabb-86c1-c78162f3ba2b">
     <mxGraphModel dx="1186" dy="614" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" background="#ffffff" math="0" shadow="0">
       <root>
@@ -644,7 +644,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="d0YtbAoMINIAlSXDLQa4" name="POS Sale Process">
-    <mxGraphModel dx="5594" dy="3556" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="2036" dy="1714" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="6QG6l0XzwJDkrrPSNPcI-0" />
         <mxCell id="6QG6l0XzwJDkrrPSNPcI-1" parent="6QG6l0XzwJDkrrPSNPcI-0" />
@@ -2879,7 +2879,15 @@
           <mxGeometry x="4543.32" y="246.49" width="50" height="50" as="geometry" />
         </mxCell>
         <mxCell id="XEvMsW0XWqBc-6qg64GJ-237" value="Thông tin nhân viên (Employee ID, tên, etc)" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="XEvMsW0XWqBc-6qg64GJ-218">
-          <mxGeometry x="860" y="941.22" width="112.5" height="20" as="geometry" />
+          <mxGeometry x="860" y="931.22" width="112.5" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="XEvMsW0XWqBc-6qg64GJ-244" value="" style="shape=note;whiteSpace=wrap;size=16;html=1;dropTarget=0;" vertex="1" parent="XEvMsW0XWqBc-6qg64GJ-218">
+          <mxGeometry x="896.2500000000001" y="854.99" width="40" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="XEvMsW0XWqBc-6qg64GJ-245" value="" style="html=1;shape=singleArrow;arrowWidth=0.4;arrowSize=0.4;outlineConnect=0;" vertex="1" parent="XEvMsW0XWqBc-6qg64GJ-244">
+          <mxGeometry width="14" height="14" relative="1" as="geometry">
+            <mxPoint x="2" y="2" as="offset" />
+          </mxGeometry>
         </mxCell>
         <mxCell id="XEvMsW0XWqBc-6qg64GJ-236" value="POS System" style="swimlane;html=1;horizontal=0;swimlaneLine=0;" vertex="1" parent="XEvMsW0XWqBc-6qg64GJ-217">
           <mxGeometry x="20" y="790" width="5640" height="320" as="geometry" />
@@ -2902,18 +2910,10 @@
         <mxCell id="XEvMsW0XWqBc-6qg64GJ-242" value="" style="shape=mxgraph.bpmn.service_task;html=1;outlineConnect=0;" vertex="1" parent="XEvMsW0XWqBc-6qg64GJ-236">
           <mxGeometry x="710" y="186.24" width="14" height="14" as="geometry" />
         </mxCell>
-        <mxCell id="XEvMsW0XWqBc-6qg64GJ-243" value="" style="endArrow=none;dashed=1;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="XEvMsW0XWqBc-6qg64GJ-236">
+        <mxCell id="XEvMsW0XWqBc-6qg64GJ-243" value="" style="endArrow=none;dashed=1;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="XEvMsW0XWqBc-6qg64GJ-236" target="XEvMsW0XWqBc-6qg64GJ-244">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="760.7" y="91.49000000000001" as="sourcePoint" />
-            <mxPoint x="900.8199999999999" y="91.49000000000001" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="XEvMsW0XWqBc-6qg64GJ-244" value="" style="shape=note;whiteSpace=wrap;size=16;html=1;dropTarget=0;" vertex="1" parent="XEvMsW0XWqBc-6qg64GJ-236">
-          <mxGeometry x="893.5100000000001" y="77.74000000000001" width="40" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="XEvMsW0XWqBc-6qg64GJ-245" value="" style="html=1;shape=singleArrow;arrowWidth=0.4;arrowSize=0.4;outlineConnect=0;" vertex="1" parent="XEvMsW0XWqBc-6qg64GJ-244">
-          <mxGeometry width="14" height="14" relative="1" as="geometry">
-            <mxPoint x="2" y="2" as="offset" />
+            <mxPoint x="761" y="94.99000000000001" as="sourcePoint" />
+            <mxPoint x="890" y="94.99000000000001" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="XEvMsW0XWqBc-6qg64GJ-246" value="Ghi nhận thông tin đơn hàng" style="html=1;whiteSpace=wrap;rounded=1;dropTarget=0;" vertex="1" parent="XEvMsW0XWqBc-6qg64GJ-236">
