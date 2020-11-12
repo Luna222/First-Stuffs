@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2020-11-11T17:35:20.867Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_5) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/86.0.4240.193 Safari/537.36" etag="sYNOKdIOu773C5TErdDz" version="13.9.6" type="github" pages="4">
+<mxfile host="app.diagrams.net" modified="2020-11-12T02:49:43.870Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_5) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/86.0.4240.193 Safari/537.36" etag="o3wAT6tPq6a2qi2uipQt" version="13.9.6" type="github" pages="4">
   <diagram name="Page-1" id="2a216829-ef6e-dabb-86c1-c78162f3ba2b">
     <mxGraphModel dx="1186" dy="614" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" background="#ffffff" math="0" shadow="0">
       <root>
@@ -1883,7 +1883,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="hvx59zRjNV6_nQf0MyZF" name="POS Sale Process">
-    <mxGraphModel dx="2036" dy="1714" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="1796" dy="1714" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="1biz1qd9IpuSNfBp-EpO-0" />
         <mxCell id="1biz1qd9IpuSNfBp-EpO-1" parent="1biz1qd9IpuSNfBp-EpO-0" />
@@ -3000,15 +3000,6 @@
         <mxCell id="ZdEWvsB8I-hBRd86MhJi-7" value="&lt;b&gt;Basic rule (*)&lt;/b&gt;&lt;br&gt;Khách hàng mua hàng có giá trị tiền quy đổi như sau: 1000 vnd = 1 điểm&amp;nbsp;&lt;br&gt;&lt;br&gt;&lt;b&gt;- Số điểm tích luỹ còn dư:&lt;br&gt;&lt;/b&gt;+ Khách hàng chọn trừ điểm thì mức giá phải thanh toán sẽ giảm đi bằng số điểm đang tích luỹ theo&amp;nbsp;&lt;b&gt;Basic rule (*)&lt;/b&gt;&lt;br&gt;+ Hệ thống tích điểm thì số điểm tích luỹ sẽ được cộng thêm bằng mức giá các sản phẩm mua theo&amp;nbsp;&lt;b&gt;Basic rule (*)&lt;/b&gt;&lt;br&gt;&lt;b&gt;- Số điểm tích luỹ rỗng:&lt;br&gt;&lt;/b&gt;Hệ thống tích điểm thì số điểm tích luỹ sẽ được cộng thêm bằng mức giá các sản phẩm mua theo&amp;nbsp;&lt;b&gt;Basic rule (*)&lt;/b&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="XEvMsW0XWqBc-6qg64GJ-218" vertex="1">
           <mxGeometry x="3370" y="564.99" width="404.5" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="ZdEWvsB8I-hBRd86MhJi-9" value="" style="endArrow=none;dashed=1;html=1;exitX=0.75;exitY=1;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="XEvMsW0XWqBc-6qg64GJ-218" source="jDrcdnvkyeZG0YU-Ow7B-0" target="ZdEWvsB8I-hBRd86MhJi-5" edge="1">
-          <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="3440" y="364.99" as="sourcePoint" />
-            <mxPoint x="3492.5249999999996" y="487.7500000000002" as="targetPoint" />
-            <Array as="points">
-              <mxPoint x="3283" y="564.99" />
-            </Array>
-          </mxGeometry>
-        </mxCell>
         <mxCell id="g7jluWJxPj2cZb2KWG8t-2" value="Khách hàng đã đăng ký Membership &amp;amp; Đã scan thẻ thành viên &amp;amp; Yêu cầu trừ điểm tích luỹ&amp;nbsp;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="XEvMsW0XWqBc-6qg64GJ-218" vertex="1">
           <mxGeometry x="2995" y="400.76" width="200" height="20" as="geometry" />
         </mxCell>
@@ -3068,6 +3059,15 @@
         </mxCell>
         <mxCell id="g7jluWJxPj2cZb2KWG8t-31" value="Hoàn thành xử lý đơn hàng" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="XEvMsW0XWqBc-6qg64GJ-218" vertex="1">
           <mxGeometry x="4878.07" y="300.51" width="90.5" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="1x_6bBpoFfWEkSvHQoaA-0" value="" style="endArrow=classic;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=0.75;entryY=1;entryDx=0;entryDy=0;dashed=1;" edge="1" parent="XEvMsW0XWqBc-6qg64GJ-218" source="ZdEWvsB8I-hBRd86MhJi-5" target="jDrcdnvkyeZG0YU-Ow7B-0">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="3710" y="624.99" as="sourcePoint" />
+            <mxPoint x="3330" y="494.99" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="3283" y="564.99" />
+            </Array>
+          </mxGeometry>
         </mxCell>
         <mxCell id="XEvMsW0XWqBc-6qg64GJ-236" value="POS System" style="swimlane;html=1;horizontal=0;swimlaneLine=0;" parent="XEvMsW0XWqBc-6qg64GJ-217" vertex="1">
           <mxGeometry x="20" y="790" width="5320" height="320" as="geometry" />
